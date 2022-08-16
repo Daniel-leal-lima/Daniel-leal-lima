@@ -1,6 +1,7 @@
 ##   Hello There!👋
 - i'm an Indie Game developer From Brazil
-- Want to see my games? [Check this](https://daniel-leal.itch.io/)
+- Want to play my games? [Check this](https://daniel-leal.itch.io/)
+- https://daniel-leal.notion.site 
 
 <!--- Github Stats --->
 <div align="center">
