@@ -11,9 +11,9 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Dan-Unity" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
   <img align="center" alt="Dan-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Dan-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Dan-Unity" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
    </a>
 </div>
 
